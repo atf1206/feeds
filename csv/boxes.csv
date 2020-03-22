@@ -1,0 +1,38 @@
+// Box 0 - courses from csv
+Courses,coursescontent,courses,,
+Coursera,courseracontent,courses,,
+Unknown,none,courses,,
+
+// Box 1-1 - news
+nytimes,nytimes,news,10,http://www.nytimes.com,NYTimes.com
+reddit,reddit,news,10,https://www.reddit.com/,Reddit.com
+reddittop,reddittop,news,8,https://www.reddit.com/top,Reddit.com/r/top
+redditworld,redditworld,news,8,https://www.reddit.com/r/worldnews/,Reddit.com/r/worldnews
+reddittech,reddittech,news,8,https://www.reddit.com/r/technology/,Reddit.com/r/tech
+
+// Box 1-2 - code
+redditprog,redditprogramming,code,11,https://www.reddit.com/r/programming/,Reddit.com/r/programming
+redditwebdev,redditwebdev,code,11,https://www.reddit.com/r/developer/,Reddit.com/r/developer
+hackernews,hackernews,code,11,https://hacker-news.firebaseio.com/v0/topstories,https://hacker-news.firebaseio.com/v0/item/,http://news.ycombinator.com/,Hacker News
+redditcoding,redditcoding,code,11,https://www.reddit.com/r/coding/,Reddit.com/r/coding
+
+// Box 1-3 - science
+redditscience,redditscience,science,6,https://www.reddit.com/r/science/,Reddit.com/r/science
+newscientist,newscientist,science,6,https://www.reddit.com/r/developer/,NewScientist.com
+
+// Box 2-1 - learn
+learncode,learncode,learn,'',''
+learncodegames,learncodegames,learn,'',''
+learndatascience,learndatascience,learn,'',''
+learnlanguages,learnlanguages,learn,'',''
+learnjobs,learnjobs,learn,'',''
+
+// Box 2-2 - Indeed.com
+indeed1,indeed1,jobs,results1,
+indeed2,indeed2,jobs,results2,
+
+// Box 2-3
+redditpics,redditpics,entertain,12,https://www.reddit.com/r/pics/,Reddit.com/r/pics
+reddittil,reddittil,entertain,8,https://www.reddit.com/r/todayilearned/, 'Reddit.com/r/todayilearned
+redditask,redditask,entertain,10,https://www.reddit.com/r/askreddit/,Reddit.com/r/askreddit
+redditvid,redditvideos,entertain,10,https://www.reddit.com/r/videos/,Reddit.com/r/videos
